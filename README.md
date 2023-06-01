@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+This is Robin.
+I'm studying CSE @IZTECH.
+I have a deep-seated curiosity and enthusiasm for Data Science. Also, I'm interested in Web Development.
+Currently, I'm working on Deep Learning.
 <!--
 **rumutaydin/rumutaydin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
